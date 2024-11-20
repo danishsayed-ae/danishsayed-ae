@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Playwright Automation<br>👯 I’m looking to collaborate on QA Automation<br>🤝 I’m looking for help with DevOps<br>🌱 I’m currently learning about Kubernetes and Terraform<br>💬 Ask me about Software Testing <br>⚡ Fun fact: Quality is a habit not a choice!
+🔭 I’m currently working on Playwright Automation<br>👯 I’m looking to collaborate on QA Automation<br>🤝 I’m looking for help with DevOps<br>🌱 I’m currently learning about Kubernetes and Terraform<br>💬 Ask me about Software Testing and best practices <br>⚡ Fun fact: Quality is a habit not a choice!
 
 
 ## 🌐 Socials:
